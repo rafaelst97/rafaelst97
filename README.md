@@ -1,6 +1,6 @@
 # Rafael dos Santos
 
-Hello! I'm a student of computer science at UNIVALI :computer:
+Hello! I'm a student of computer science at UNIVALI 👨‍💻
 <br/>
 :rocket:  &nbsp; I'm working at **GD Place** on the web system https://www.gdplace.com.br/
 <br/> :purple_heart: &nbsp; I’m currently learning JS, JQuery, PHP, Laravel and MySQL
