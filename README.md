@@ -2,6 +2,9 @@
 
 Hello! I'm a student of computer science at UNIVALI :computer:
 <br/>
+:rocket:  &nbsp; I'm working at **GD Place** on the web system https://www.gdplace.com.br/
+<br/> :purple_heart: &nbsp; I’m currently learning JS, JQuery, PHP, Laravel and MySQL
+<br/> :computer: &nbsp; My stack: PHP, JS.
 💬  &nbsp; About me: I love technologies, movies, travels and I'm passionate about games and to study new things
 
 
